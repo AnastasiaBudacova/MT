@@ -2,8 +2,8 @@
 [
   {
     "id": "1",
-    "surname": "Абдырахманов",
-    "name": "Вепа",
+    "studentSurname": "Абдырахманов",
+    "studentName": "Вепа",
     "email": "qwerty@gmail.com"
   },
   {
