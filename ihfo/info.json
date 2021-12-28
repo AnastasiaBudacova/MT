@@ -1,0 +1,58 @@
+{"users":
+[
+  {
+    "id": "1",
+    "surname": "Абдырахманов",
+    "name": "Вепа",
+    "email": "qwerty@gmail.com"
+  },
+  {
+    "id": "2",
+    "surname": "Альциванович",
+    "name": "Николай",
+    "email": "abc@gmail.com"
+  },
+  {
+    "id": "3",
+    "surname": "Бранчук",
+    "name": "Дмитрий",
+    "email": "def@gmail.com"
+  },
+  {
+    "id": "4",
+    "surname": "Брашевец",
+    "name": "Дмитрий",
+    "email": "xyz@gmail.com"
+  }
+{
+    "id": "5",
+    "surname": "Будакова",
+    "name": "Анастасия",
+    "email": "xyz@gmail.com"
+  }
+{
+    "id": "4",
+    "surname": "Брашевец",
+    "name": "Дмитрий",
+    "email": "xyz@gmail.com"
+  }
+{
+    "id": "4",
+    "surname": "Брашевец",
+    "name": "Дмитрий",
+    "email": "xyz@gmail.com"
+  }
+{
+    "id": "4",
+    "surname": "Брашевец",
+    "name": "Дмитрий",
+    "email": "xyz@gmail.com"
+  }
+{
+    "id": "4",
+    "surname": "Брашевец",
+    "name": "Дмитрий",
+    "email": "xyz@gmail.com"
+  }
+]
+}
